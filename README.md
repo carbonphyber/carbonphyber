@@ -6,7 +6,7 @@ In my day job, I work in front-end data vizualizations for cybersecurity.
 
 In my personal time, I love learning about everything. Recently I started learning about [Street Epistemology](https://streetepistemology.com/blog/street-epistemology-the-basics) and learning how to use it to discuss topics that are heavily impacted by misinformation ("Stop the Steal", QAnon, etc) and understanding the communication / understanding barriers that two people encounter when they discuss the same topic.
 
-In 2021, I contributed to [@OpenElections](http://openelections.net/). I would encourage others to volunteer some of their time to do the same.
+In 2021, I contributed to [@OpenElections](https://github.com/OpenElections). I would encourage others to volunteer some of their time to do the same.
 
 Currently looking for projects which can communicate stories about how the United States of America could be improved using visuals, stats, and raw data. Hoping to find like-minded people who care to fix policy issues by first showing the problems to voters/constituents.
 
