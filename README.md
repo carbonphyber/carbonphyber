@@ -1,14 +1,14 @@
-### Hi there 👋
+### I am @carbonphyber
 
-I am @carbonphyber. I care a lot about facts, statistics, data, rational thinking, and learning.
+I care a lot about facts, statistics, data, rational thinking, and learning.
 
 In my day job, I work in front-end data vizualizations for cybersecurity.
 
-In my personal time, I love learning about everything.
+In my personal time, I love learning about everything. Recently I started learning about [Street Epistemology](https://streetepistemology.com/blog/street-epistemology-the-basics) and learning how to use it to discuss topics that are heavily impacted by misinformation ("Stop the Steal", QAnon, etc).
 
 In 2021, I contributed to @OpenElections. I would encourage others to volunteer some of their time to do the same.
 
-Currently looking for projects which can communicate stories about how the United States of America could be improved using visuals, stats, and raw data.
+Currently looking for projects which can communicate stories about how the United States of America could be improved using visuals, stats, and raw data. Hoping to find like-minded people who care to fix policy issues by first showing the problems to voters/constituents.
 
 <!--
 **carbonphyber/carbonphyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
